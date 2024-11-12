@@ -1,0 +1,129 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/projetos_pld/tarefa_05
+Eseven_segment_cntrl
+Z1 w1731202100
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8seven_segment_cntrl.vhd
+Z6 Fseven_segment_cntrl.vhd
+l0
+L10
+V5_33]PSNToecFVV[z`H@d2
+!s100 ZHe3j>YAEDOE8oIV_AF@Z3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1731202379
+!i10b 1
+Z9 !s108 1731202379.000000
+Z10 !s90 -reportprogress|300|seven_segment_cntrl.vhd|testbench.vhd|
+Z11 !s107 testbench.vhd|seven_segment_cntrl.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+Z13 DEx4 work 19 seven_segment_cntrl 0 22 5_33]PSNToecFVV[z`H@d2
+l18
+L17
+Z14 VYcFUl_dGWcin2E37nC]5O1
+Z15 !s100 QBI^`oQcd_h_88Nf@cXTH2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Etestbench
+Z16 w1731202372
+R2
+R3
+R4
+R0
+Z17 8testbench.vhd
+Z18 Ftestbench.vhd
+l0
+L11
+V3C9M9hcPKDb@ULIM`oRd^1
+!s100 FHXY1D6<FSCSWL]aKhl692
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Artl
+R13
+R2
+R3
+R4
+Z19 DEx4 work 9 testbench 0 22 3C9M9hcPKDb@ULIM`oRd^1
+l17
+L14
+V`LiZH`9m<P8;`[IQGhnb:2
+!s100 CA4L5iclG=b;n9Yb;gkFc2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Etestbench_seven
+Z20 w1731008337
+R2
+R3
+R4
+R0
+R17
+R18
+l0
+L11
+VR?Lj`aFWCRnIf>430nAW30
+!s100 z_lNT[Fj;NOj_E59TOl=O2
+R7
+32
+Z21 !s110 1731008522
+!i10b 1
+Z22 !s108 1731008522.000000
+R10
+R11
+!i113 1
+R12
+Atestbench_seven
+DEx4 work 19 seven_segment_cntrl 0 22 dLHoYP5BlCEDU?G]DF[;X3
+R2
+R3
+R4
+DEx4 work 15 testbench_seven 0 22 R?Lj`aFWCRnIf>430nAW30
+l17
+L14
+V8Jf@CTCHd`idA>Y?kUG2@2
+!s100 b4IVhfOYfgRYOIb`DP73R2
+R7
+32
+R21
+!i10b 1
+R22
+R10
+R11
+!i113 1
+R12
